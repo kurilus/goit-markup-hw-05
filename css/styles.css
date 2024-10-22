@@ -540,3 +540,8 @@ overflow: hidden;
     left: 50%;
     transform: translate(-50%, -50%);
 }
+.modal-open {
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+}
