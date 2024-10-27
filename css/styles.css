@@ -685,11 +685,6 @@ input::placeholder {
     margin-bottom: 16px;
 }
 
-.modal-form {
-    padding-left: 24px;
-    padding-right: 24px;
-}
-
 .user-name {
     display: flex;
     flex-direction: column;
